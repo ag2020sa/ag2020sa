@@ -8,7 +8,9 @@ Generative AI and RAG engineering portfolio focused on Arabic enterprise AI, eva
 
 Arabic RAG evaluation, observability, audit, and CI/CD release gates for source-grounded enterprise AI systems.
 
-**Repository:** https://github.com/ag2020sa/arabic-rag-evaluation-observability-harness
+**Portfolio page:** https://ag2020sa.github.io/arabic-rag-evaluation-observability-harness/  
+**Repository:** https://github.com/ag2020sa/arabic-rag-evaluation-observability-harness  
+**Release:** https://github.com/ag2020sa/arabic-rag-evaluation-observability-harness/releases/tag/v1.0.0
 
 Highlights:
 
