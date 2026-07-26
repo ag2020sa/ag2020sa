@@ -1,35 +1,22 @@
-# Ahmed Alghuraymil
+# Ahmed Khalid
 
-[![Featured Project](https://img.shields.io/badge/Featured-Arabic%20RAG%20Evaluation%20Harness-blue)](https://ag2020sa.github.io/arabic-rag-evaluation-observability-harness/)
-[![Release](https://img.shields.io/github/v/release/ag2020sa/arabic-rag-evaluation-observability-harness)](https://github.com/ag2020sa/arabic-rag-evaluation-observability-harness/releases/tag/v1.0.0)
-[![CI](https://github.com/ag2020sa/arabic-rag-evaluation-observability-harness/actions/workflows/evaluation.yml/badge.svg)](https://github.com/ag2020sa/arabic-rag-evaluation-observability-harness/actions/workflows/evaluation.yml)
+Cybersecurity & Information Security Professional with 9+ years of experience spanning cybersecurity and security-related operations in government and sensitive environments.
 
-Generative AI and RAG engineering portfolio focused on Arabic enterprise AI, evaluation, observability, governance, and secure release workflows.
+**Saudi National | Riyadh | Available Immediately**
 
-## Featured Project
+## Core Focus
 
-### Arabic RAG Evaluation & Observability Harness
+* Security Operations, SIEM/ELK, Incident Response, and Threat Hunting
+* Cyber Threat Intelligence (CTI), Threat Analysis, and STIX 2.1
+* Cyber Risk, GRC, Security Controls, Security Assurance, and Remediation
+* AI Security Assurance, Evidence Validation, Human Oversight, and Auditability
 
-Arabic RAG evaluation, observability, audit, and CI/CD release gates for source-grounded enterprise AI systems.
+## Featured Cybersecurity Projects
 
-**Portfolio page:** https://ag2020sa.github.io/arabic-rag-evaluation-observability-harness/  
-**Repository:** https://github.com/ag2020sa/arabic-rag-evaluation-observability-harness  
-**Release:** https://github.com/ag2020sa/arabic-rag-evaluation-observability-harness/releases/tag/v1.0.0
+### [CTI AI Trust Gateway](https://github.com/ag2020sa/cti-ai-trust-gateway)
 
-Highlights:
+Independent open-source verification gateway for AI-generated cyber threat intelligence. It validates evidence and STIX 2.1 relationships, applies policy enforcement and human approval, maintains auditable decisions, and supports approved-only export with an experimental controlled delivery path to OpenCTI Draft.
 
-- Arabic golden-set evaluation for RAG systems
-- retrieval metrics, groundedness checks, and citation validation
-- Arabic quality checks and normalization
-- safety checks for prompt injection, jailbreaks, PII leakage, and policy violations
-- explicit release decisions: `PROMOTE_TO_STAGING`, `HUMAN_REVIEW_REQUIRED`, `BLOCK_RELEASE`
-- FastAPI evaluation endpoint and Streamlit release dashboard
-- GitHub Actions CI/CD release gates with audit-ready reports
+### [AI Security Red Team Harness](https://github.com/ag2020sa/ai-security-red-team-harness)
 
-## Focus Areas
-
-- Arabic RAG systems
-- LLM evaluation and observability
-- AI governance and release gates
-- secure AI engineering
-- FastAPI, Streamlit, Python, CI/CD
+Defensive AI security evaluation harness for LLM, RAG, and AI-agent systems using safe synthetic attack scenarios, redacted evidence, risk scoring, CI gates, remediation tracking, and governance mappings.
